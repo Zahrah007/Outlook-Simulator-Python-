@@ -70,4 +70,13 @@ end                    # Exit the simulator
 ```
 -----
 ## Programs Demonstration ##
+https://github.com/user-attachments/assets/6485f9e6-caba-4dd4-a45d-aab805f7b391
 
+-----
+## Future Expansions ##
+- Reply/ Forward feature
+- A small GUI (PyQT or Tinker)
+- Saving the mailbox data per session
+-----
+## Final Thoughts ## 
+This project was challenging and really helped me apply what I had I learned to build something that would be used daily in a real-world scenario  
