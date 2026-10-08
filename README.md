@@ -63,7 +63,7 @@ get 3                  # Open email with ID 3
 flt email10@gre.ac.uk   # Filter emails by sender
 fnd 12/5/2025          # Find emails by date
 add sender receiver date subject tag %% message body here
-del 7                  # Delete email with ID 7
+del 7                  # Move email with ID 7 to bin folder
 mrkr 4                 # Mark email with ID 4 as read
 mv 2 work              # Move email with ID 2 with "work" tag
 end                    # Exit the simulator
